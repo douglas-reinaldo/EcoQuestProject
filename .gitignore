@@ -1,0 +1,24 @@
+  # Unity
+  [Ll]ibrary/
+  [Tt]emp/
+  [Oo]bj/
+  [Bb]in/
+  [Pp]rojectSettings/Assembly-CSharp.csproj
+  [Pp]rojectSettings/Assembly-CSharp-Editor.csproj
+  [Pp]rojectSettings/Assembly-CSharp-Editor-FirstPass.csproj
+  [Pp]rojectSettings/Assembly-CSharp-FirstPass.csproj
+  [Pp]rojectSettings/EditorBuildSettings.asset
+  [Pp]rojectSettings/EditorSettings.asset
+  [Pp]rojectSettings/GraphicsSettings.asset
+  [Pp]rojectSettings/InputManager.asset
+  [Pp]rojectSettings/NavMeshAreas.asset
+  [Pp]rojectSettings/NetworkManager.asset
+  [Pp]rojectSettings/Physics2DSettings.asset
+  [Pp]rojectSettings/PhysicsSettings.asset
+  [Pp]rojectSettings/QualitySettings.asset
+  [Pp]rojectSettings/TagManager.asset
+  [Pp]rojectSettings/TimeManager.asset
+  [Pp]rojectSettings/UnityConnectSettings.asset
+  [Pp]rojectSettings/UniversalRenderPipelineAsset.asset
+  [Pp]rojectSettings/UniversalRenderPipelineEditorResources.asset
+  [Pp]rojectSettings/VisualEffectSettings.asset
