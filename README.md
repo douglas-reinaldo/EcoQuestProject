@@ -1,4 +1,4 @@
-# Jogo de Coleta 2D
+# Jogo de concientização ambiental 2D
 
 ## Descrição
 Projeto de jogo 2D desenvolvido com Unity, focado em mecânicas de coleta de itens e interação com o ambiente.  
